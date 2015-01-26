@@ -1,0 +1,9 @@
+﻿Build started 26.01.2015 01:58:02.
+     1>Project "C:\Users\rrr\Documents\Visual Studio 2012\Projects\msvc-tests\Win32StaticLibConsoleApp\Win32StaticLibConsoleApp.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         Win32StaticLibConsoleApp.vcxproj -> C:\Users\rrr\Documents\Visual Studio 2012\Projects\msvc-tests\Debug\Win32StaticLibConsoleApp.exe
+     1>Done Building Project "C:\Users\rrr\Documents\Visual Studio 2012\Projects\msvc-tests\Win32StaticLibConsoleApp\Win32StaticLibConsoleApp.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.02
